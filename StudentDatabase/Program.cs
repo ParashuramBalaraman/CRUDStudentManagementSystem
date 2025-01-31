@@ -504,11 +504,3 @@ namespace StudentDatabase
         }
     }
 }
-
-//ToDo: Implement the Update methods [DONE]
-//Include Try and catch blocks to handle exceptions (In Update and maybe add) [DONE]
-//Do unit testing
-//Create ReadMe file
-//Finish the program class and check it runs properly [DONE]
-//Check that exit works as intended (IT DOES WORK) [DONE]
-// Check the syntax of the user prompts (Invalid input!, add ": " after a prompt line, etc.) [DONE]
